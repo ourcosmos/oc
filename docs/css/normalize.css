@@ -17,6 +17,7 @@ html {
  */
 
 body {
+  background-image: url("oc/doc/images/AstronomyDark.jpg");
   margin: 0;
 }
 
@@ -87,8 +88,7 @@ template {
  */
 
 a {
-  background-image: url("oc/doc/images/AstronomyDark.jpg");
-  /*background-color: transparent;*/
+  background-color: transparent;
 }
 
 /**
