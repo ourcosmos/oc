@@ -87,8 +87,8 @@ template {
  */
 
 a {
-  background-image: url("../images/AstronomyDark.jpg");
-  background-color: transparent;
+  background-image: url("oc/doc/images/AstronomyDark.jpg");
+  /*background-color: transparent;*/
 }
 
 /**
